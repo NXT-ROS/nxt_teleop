@@ -18,13 +18,13 @@ mkdir nxt_teleop
 cd nxt_teleop
 mkdir src
 cd src
-git clone https://github.com/NXT-ROS/nxt_robots.git
+git clone https://github.com/NXT-ROS/nxt_teleop.git
 cd ..
 catkin init
 catkin build
 ```
 
-You now have a working package with the teleop package in it.
+You now have a working package with the nxt_teleop package in it.
 
 ## Using NXT Robots
 
