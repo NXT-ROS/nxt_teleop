@@ -10,6 +10,8 @@ NXT ROS - Teleop
 This repository contains a keyboard interface to use with NXT ROS.
 
 ## Installation
+To use *nxt_teleop*, *robot_pose_ekf* needs to be installed.
+
 
 The repository is expected to be placed inside the source folder of a working catkin environnement.
 
